@@ -1,4 +1,4 @@
-# resume
+# Resume
 Resume, LaTeX template.
 
 ## LaTeX
@@ -12,7 +12,7 @@ For more information, Please see the `LaTeX` folder.
 - TeXworks
 - TeXshop
 
-#### LaTeX resume template
+#### LaTeX Resume Template
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV), ⭐️⭐️⭐️⭐️, The repo include preview.
 - [martinothamar/CV-Latex-Template](https://github.com/martinothamar/CV-Latex-Template), ⭐️⭐️⭐️, The repo include preview.
 - [imyouxia/Resume](https://github.com/imyouxia/Resume), ⭐️⭐️⭐️, [Preview at 2017.03.05](#imyouxia)
@@ -25,7 +25,7 @@ For more information, Please see the `LaTeX` folder.
 - [LaTeX Templates--Curricula Vitae/Résumés](https://www.latextemplates.com/cat/curricula-vitae), This is LaTeX Templates Website.
 
 
-## Tools for generating resume
+## Tools For Generating Resume
 - [prat0318/json_resume](https://github.com/prat0318/json_resume)
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume)
 
