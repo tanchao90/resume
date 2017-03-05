@@ -29,6 +29,7 @@ For more information, Please see the `LaTeX` folder.
 - [gaelfoppolo/resume](https://github.com/gaelfoppolo/resume), ⭐️⭐️⭐️, [Preview at 2017.03.05](#gaelfoppolo)
 - [ssaunier/resume](https://github.com/ssaunier/resume), ⭐️⭐️, [Preview at 2017.03.05](#ssaunier)
 - [ajn123/CV](https://github.com/ajn123/CV), ⭐️⭐️, [Preview at 2017.03.05](#ajn123)
+- [DanielJyc/Resume](https://github.com/DanielJyc/Resume), ⭐️⭐️, [Preview at 2017.03.05](#DanielJyc)
 - [一个简洁优雅的 XeLaTeX 简历模板](https://github.com/billryan/resume/tree/zh_CN), ⭐️⭐️, The repo include preview.
 - [LaTeX Templates--Curricula Vitae/Résumés](https://www.latextemplates.com/cat/curricula-vitae), This is LaTeX Templates Website.
 
@@ -58,6 +59,7 @@ For more information, Please see the `LaTeX` folder.
 #### ajn123
 ![](https://github.com/tanchao90/resume/raw/master/img/ajn123.png)
 
-
+#### DanielJyc
+![](https://github.com/tanchao90/resume/raw/master/img/DanielJyc.png)
 
 
