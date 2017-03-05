@@ -1,6 +1,14 @@
 # Resume
 Resume, LaTeX template.
 
+
+## Write And Build Resume
+- `MacTeX`: TeX Software Package on maxOS 
+- `TeXshop`: Editor
+- `xeCJK`: TeX Package
+- `XeLaTeX`: Build Engine
+
+
 ## LaTeX
 For more information, Please see the `LaTeX` folder.
 
@@ -28,6 +36,10 @@ For more information, Please see the `LaTeX` folder.
 ## Tools For Generating Resume
 - [prat0318/json_resume](https://github.com/prat0318/json_resume)
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume)
+
+
+## References
+- [为 MacTeX 配置中文支持](http://liam0205.me/2014/11/02/latex-mactex-chinese-support/)
 
 
 ## Preview
