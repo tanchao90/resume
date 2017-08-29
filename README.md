@@ -56,6 +56,10 @@ For more information, Please see the `LaTeX` folder.
 - [为 MacTeX 配置中文支持](http://liam0205.me/2014/11/02/latex-mactex-chinese-support/)
 
 
+## Beautiful resume
+- [适合程序员/设计师的简历](https://github.com/byoungd/resume)
+
+
 ## Preview
 #### imyouxia
 ![](https://github.com/tanchao90/resume/raw/master/img/imyouxia.png)
