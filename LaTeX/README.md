@@ -18,9 +18,9 @@
 - [Overleaf](https://www.overleaf.com/)，在线工具
 
 #### 编辑器
-- TeXworks: TeX Live、MiKTeX、CTeX，简洁，推荐
-- WinEdt: CTeX
-- TeXshop: MacTeX，推荐
+- TeXworks: TeX Live、MiKTeX、CTeX 包含，简洁，推荐；
+- WinEdt: CTeX 包含；
+- TeXshop: MacTeX 包含，推荐；
 - Latexian
 - TeXstudio
 - ...
